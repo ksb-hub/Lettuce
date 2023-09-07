@@ -1,0 +1,9 @@
+db.sqlite3
+ProductCompare-Backend/
+.idea
+*.pyc
+__pycache__
+secrets.json
+ocr_secret_key.json
+/sangchu-server key
+.env
